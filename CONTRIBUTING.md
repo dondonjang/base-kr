@@ -1,13 +1,22 @@
 /*
 Theme Name: Base
+
 Theme URI: http://demo.themebeans.com/base
+
 Author: ThemeBeans
+
 Author URI: http://themebeans.com
+
 Description: A brilliantly crafted knowledgebase inspired theme.
+
 Version: 2.1.0
+
 License: GNU General Public License v2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
 Tags: post-formats, theme-options, translation-ready, custom-menu, fluid-layout, responsive-layout, light, white, microformats
+
 Text Domain: bean
 
 This theme, like WordPress, is licensed under the GPL.
