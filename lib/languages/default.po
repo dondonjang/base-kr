@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Base\n"
+"POT-Creation-Date: 2013-05-01 23:04-0500\n"
+"PO-Revision-Date: 2013-05-01 23:04-0500\n"
+"Last-Translator: \n"
+"Language-Team: ThemeBeans <hello@themebeans.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;bean\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/sidebars/sidebars.php:47
+msgid ""
+"In the <a href=\"edit.php?post_type=sidebar\">Widget Area Manager</a>, you "
+"can create and manage widget areas for specific pages of your website to "
+"override the default locations you see below."
+msgstr ""
+
+#: ../admin/sidebars/classes/class.radiumsidebars.php:353
+msgid "Description"
+msgstr ""
+
+#: ../content/content-header.php:55
+msgid "&#39;s Articles"
+msgstr ""
+
+#: ../content/content-header.php:99
+msgid "Good news! We found&nbsp;"
+msgstr ""
+
+#: ../content/content-header.php:99
+msgid ""
+"&nbsp;articles that may suit your needs. Check them out or even try "
+"searching again."
+msgstr ""
+
+#: ../functions/comments.php:32
+msgid ""
+"\\t\\t\\t\\t\\t<span class=\"unapproved\">Your trackback is awaiting "
+"moderation</span>\\n"
+msgstr ""
+
+#: ../functions/theme-functions.php:315
+msgid "Search"
+msgstr ""
+
+#: ../functions/theme-functions.php:353 ../widgets/widget-sticky.php:84
+msgid "New"
+msgstr ""
+
+#: ../functions/theme-functions.php:394
+msgid "&nbsp;Comments"
+msgstr ""
+
+#: ../functions/theme-functions.php:407
+msgid "&nbsp;Views"
+msgstr ""
+
+#: ../functions/theme-functions.php:412
+msgid "&nbsp;Words"
+msgstr ""
+
+#: ../functions/theme-functions.php:1134
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: ../widgets/widget-announcement.php:106
+msgid "&nbsp;Make it Flat"
+msgstr ""
+
+#: ../widgets/widget-categories.php:92 ../widgets/widget-categories.php:138
+msgid "View All"
+msgstr ""
+
+#: ../widgets/widget-categories.php:196
+msgid ""
+"Enter your category slug & the count you would like displayed for both of "
+"the sections. "
+msgstr ""
+
+#: ../widgets/widget-categories.php:199
+msgid "Title 1:"
+msgstr ""
+
+#: ../widgets/widget-categories.php:206 ../widgets/widget-categories.php:227
+msgid "Category Name:"
+msgstr ""
+
+#: ../widgets/widget-categories.php:211 ../widgets/widget-categories.php:232
+#: ../widgets/widget-sticky.php:151
+msgid "Count:"
+msgstr ""
+
+#: ../widgets/widget-categories.php:220
+msgid "Title 2:"
+msgstr ""
+
+#: ../widgets/widget-categories.php:247 ../widgets/widget-sticky.php:166
+msgid "&nbsp;Display Post Total Counts"
+msgstr ""
+
+#: ../widgets/widget-categories.php:256 ../widgets/widget-sticky.php:175
+msgid "&nbsp;Display \"View All\" Button"
+msgstr ""
+
+#: ../widgets/widget-dribbble.php:182 ../widgets/widget-flickr.php:104
+#: ../widgets/widget-social.php:260 ../widgets/widget-sticky.php:146
+#: ../widgets/widget-twitter.php:129
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/widget-dribbble.php:187
+msgid "<a href=\"http://www.dribbble.com/themebeans\">Dribbble</a> account:"
+msgstr ""
+
+#: ../widgets/widget-dribbble.php:192
+msgid "Number of Shots:"
+msgstr ""
+
+#: ../widgets/widget-feature-area.php:97
+#: ../widgets/widget-feature-area.php:135
+#: ../widgets/widget-feature-area.php:173
+msgid "More Info"
+msgstr ""
+
+#: ../widgets/widget-feature-area.php:285
+msgid ""
+"Turn on the flip animation and override the theme accent color. If the "
+"animation is on, ensure the  back is entered."
+msgstr ""
+
+#: ../widgets/widget-feature-area.php:297
+msgid "&nbsp;Animate ON"
+msgstr ""
+
+#: ../widgets/widget-feature-area.php:301
+msgid "Color:"
+msgstr ""
+
+#: ../widgets/widget-feature-area.php:311
+msgid "Panel 1:"
+msgstr ""
+
+#: ../widgets/widget-feature-area.php:354
+#: ../widgets/widget-feature-area.php:421
+#: ../widgets/widget-feature-area.php:488
+msgid "Panel Back:"
+msgstr ""
+
+#: ../widgets/widget-feature-area.php:354
+#: ../widgets/widget-feature-area.php:421
+#: ../widgets/widget-feature-area.php:488
+msgid "(animation required)"
+msgstr ""
+
+#: ../widgets/widget-feature-area.php:362
+#: ../widgets/widget-feature-area.php:429
+#: ../widgets/widget-feature-area.php:496
+msgid "Link:"
+msgstr ""
+
+#: ../widgets/widget-feature-area.php:367
+#: ../widgets/widget-feature-area.php:434
+#: ../widgets/widget-feature-area.php:501
+msgid "Text:"
+msgstr ""
+
+#: ../widgets/widget-feature-area.php:378
+msgid "Panel 2:"
+msgstr ""
+
+#: ../widgets/widget-feature-area.php:445
+msgid "Panel 3:"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:109
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:114
+msgid "Type (user or group):"
+msgstr ""
+
+#: ../widgets/widget-flickr.php:122
+msgid "Display (random or latest):"
+msgstr ""
+
+#: ../widgets/widget-newsletter.php:64
+msgid "Subscribe"
+msgstr ""
+
+#: ../widgets/widget-newsletter.php:110
+msgid "Title / Intro:"
+msgstr ""
+
+#: ../widgets/widget-newsletter.php:121
+msgid "Placeholder Text:"
+msgstr ""
+
+#: ../widgets/widget-newsletter.php:127
+msgid "Subscribe Code:"
+msgstr ""
+
+#: ../widgets/widget-newsletter.php:139
+msgid "&nbsp;Shake Animate"
+msgstr ""
+
+#: ../widgets/widget-social-counter.php:64
+msgid " Twitter"
+msgstr ""
+
+#: ../widgets/widget-social-counter.php:78
+msgid " Facebook"
+msgstr ""
+
+#: ../widgets/widget-social-counter.php:92
+msgid " Dribbble"
+msgstr ""
+
+#: ../widgets/widget-social-counter.php:258
+msgid ""
+"Twitter Username (ex: <a href=\"http://www.twitter.com/themebeans"
+"\">ThemeBeans</a>):"
+msgstr ""
+
+#: ../widgets/widget-social-counter.php:263
+msgid "Facebook Page Name:"
+msgstr ""
+
+#: ../widgets/widget-social-counter.php:268
+msgid "Dribbble Username:"
+msgstr ""
+
+#: ../widgets/widget-social-counter.php:279
+msgid "&nbsp;Display Icons"
+msgstr ""
+
+#: ../widgets/widget-social.php:265
+msgid "Behance URL:"
+msgstr ""
+
+#: ../widgets/widget-social.php:270
+msgid "Delicious URL:"
+msgstr ""
+
+#: ../widgets/widget-social.php:275
+msgid "Digg URL:"
+msgstr ""
+
+#: ../widgets/widget-social.php:280
+msgid "Dribbble URL:"
+msgstr ""
+
+#: ../widgets/widget-social.php:285
+msgid "Facebook URL:"
+msgstr ""
+
+#: ../widgets/widget-social.php:290
+msgid "Flickr URL:"
+msgstr ""
+
+#: ../widgets/widget-social.php:295
+msgid "Forrst URL:"
+msgstr ""
+
+#: ../widgets/widget-social.php:300
+msgid "FourSquare URL:"
+msgstr ""
+
+#: ../widgets/widget-social.php:305
+msgid "Github URL:"
+msgstr ""
+
+#: ../widgets/widget-social.php:310
+msgid "Google Plus URL:"
+msgstr ""
+
+#: ../widgets/widget-social.php:315
+msgid "LinkedIn URL:"
+msgstr ""
+
+#: ../widgets/widget-social.php:320
+msgid "Pinterest URL:"
+msgstr ""
+
+#: ../widgets/widget-social.php:325
+msgid "RSS URL:"
+msgstr ""
+
+#: ../widgets/widget-social.php:330
+msgid "StumbleUpon URL:"
+msgstr ""
+
+#: ../widgets/widget-social.php:335
+msgid "Twitter URL:"
+msgstr ""
+
+#: ../widgets/widget-social.php:340
+msgid "Vimeo URL:"
+msgstr ""
+
+#: ../widgets/widget-social.php:345
+msgid "YouTube URL:"
+msgstr ""
+
+#: ../widgets/widget-social.php:350
+msgid "Zerply URL:"
+msgstr ""
+
+#: ../widgets/widget-sticky.php:91
+msgid "views"
+msgstr ""
+
+#: ../widgets/widget-sticky.php:141
+msgid "This custom widget features your sticky posts, across any category."
+msgstr ""
+
+#: ../widgets/widget-twitter.php:134
+msgid ""
+"Twitter Username (ex: <a href=\"http://www.twitter.com/themebeans"
+"\">ThemeBeans</a>)"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:139
+msgid "Number of Tweets (max 20)"
+msgstr ""
+
+#: ../widgets/widget-twitter.php:144
+msgid "Button Text"
+msgstr ""

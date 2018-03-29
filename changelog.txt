@@ -1,0 +1,76 @@
+** Base Changelog **
+
+23 December 2016 - Version 2.1.0
+    Fixes & Updates:
+        * WordPress 4.7 touchups
+        * PHP 7 Compatibility fixes
+        * Registered sidebars fix
+        * Removed built-in forms functionality
+        * Title tag support updated
+        * Updated minified files
+        * Updated languages
+
+
+08 April 2016 - Version 1.6.0
+    * Custom Logo Fix
+    * Favicon/Site Icon Update
+
+
+23 June 2014 - Version 1.5.5
+	* Support for Bean 500px plugin
+
+
+11 Apr 2014 - Version 1.5.4
+	* IE 11 search bug fix
+	* Contact Form 7 fix
+	* Screenshot update
+	* Documentation update
+	* Child theme update
+
+
+12 Feb 2014 - Version 1.5.3
+	* Support for Bean Shortcodes 2.0
+
+
+22 Jan 2014 - Version 1.5.2
+	* Retina.js update to v1.1.0
+
+
+11 Dec 2013 - Version 1.5.1
+	* WP 3.7 Patches
+	* Support for Bean Tweets Plugin v2.0
+
+
+14 Nov 2013 - Version 1.5.0
+	* Support for Bean Pricing Tables Plugin
+	* WP 3.7 Patches
+
+
+7 Oct 2013 - Version 1.4.1
+	* Support for Bean Social Plugin
+
+
+29 Sept 2013 - Version 1.4.0
+	* Coming soon template (NEW)
+	* Comment form JS validation
+	* Custom editor styles (NEW)
+
+
+10 Sept 2013 - Version 1.3.0
+	* Added Retina.js compatibitliy
+	* Gallery post format re-ordering suppport
+
+
+19 July 2013 - Version 1.2.0
+	* Support for Bean Tweets Plugin
+	* Support for Bean Shortcodes Plugin
+
+
+12 May 2013 - Version 1.1.0
+	* Author archives addition
+	* Likes feature
+	* Misc CSS fixes
+
+
+2 May 2013 - Version 1.0.0
+	* Initial release	

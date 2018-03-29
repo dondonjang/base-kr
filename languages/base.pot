@@ -1,0 +1,1810 @@
+# Copyright (C) 2016 ThemeBeans
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Base 1.6.1\n"
+"Report-Msgid-Bugs-To: https://themebeans.com/\n"
+"POT-Creation-Date: 2015-09-09 20:35:34+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: WP-Translations (http://wp-translations.org/)\n"
+"Language-Team: WP-Translations <wpt@wp-translations.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.3\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: comments.php:12
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:44
+msgid "<span>%d</span> Comments."
+msgstr ""
+
+#: comments.php:44
+msgid "<span>One</span> Comment."
+msgstr ""
+
+#: comments.php:97
+msgid "<span>%d</span> Trackbacks"
+msgstr ""
+
+#: comments.php:97
+msgid "<span>One</span> Trackback for this Post."
+msgstr ""
+
+#: comments.php:133
+msgid "Comments have been disabled."
+msgstr ""
+
+#: image.php:73
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/customizer.php:23
+msgid "Site Identity"
+msgstr ""
+
+#: inc/customizer/customizer.php:43
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/customizer.php:56
+msgid "Logo Retina Width"
+msgstr ""
+
+#: inc/customizer/customizer.php:57
+msgid ""
+"This value should be equal to half of the logo image width (in px). For "
+"example, enter \"50\" for a logo that is 100px wide."
+msgstr ""
+
+#: inc/customizer/customizer.php:71
+msgid "Enable retina logo"
+msgstr ""
+
+#: lib/admin/metaboxes/inc/classes/meta-box.php:286
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: lib/admin/metaboxes/inc/classes/meta-box.php:351
+msgid "+"
+msgstr ""
+
+#: lib/admin/metaboxes/inc/classes/meta-box.php:373
+msgid "&#8211;"
+msgstr ""
+
+#: lib/admin/metaboxes/inc/fields/file.php:64
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: lib/admin/metaboxes/inc/fields/gallery.php:60
+msgid "Add Images"
+msgstr ""
+
+#: lib/admin/metaboxes/inc/fields/image.php:64
+msgid "Order saved"
+msgstr ""
+
+#: lib/admin/options/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr ""
+
+#: lib/admin/options/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr ""
+
+#: lib/admin/options/fields/google_webfonts/field_google_webfonts.php:43
+msgid ""
+"The fonts provided below are free to use custom fonts from the <a "
+"href=\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts "
+"directory</a>.<br/>Please <a href=\"http://www.google.com/webfonts\" "
+"target=\"_blank\">browse the directory</a> to preview a font, then select "
+"your choice below."
+msgstr ""
+
+#: lib/admin/options/fields/multi_text/field_multi_text.php:39
+#: lib/admin/options/fields/multi_text/field_multi_text.php:46
+#: lib/admin/options/fields/multi_text/field_multi_text.php:50
+msgid "Remove"
+msgstr ""
+
+#: lib/admin/options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr ""
+
+#: lib/admin/options/fields/upload/field_upload.php:39
+msgid "Browse"
+msgstr ""
+
+#: lib/admin/options/fields/upload/field_upload.php:40
+msgid "Remove Upload"
+msgstr ""
+
+#: lib/admin/options/options-init.php:40 lib/functions/core-functions.php:237
+msgid "Theme Options"
+msgstr ""
+
+#: lib/admin/options/options-init.php:43
+msgid "ThemeBeans Options Panel"
+msgstr ""
+
+#: lib/admin/options/options-init.php:99
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: lib/admin/options/options-init.php:100
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: lib/admin/options/options-init.php:101
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: lib/admin/options/options.php:58 lib/admin/options/options.php:60
+msgid "Options"
+msgstr ""
+
+#: lib/admin/options/options.php:262 lib/admin/options/options.php:263
+msgid "Import / Export / Reset"
+msgstr ""
+
+#: lib/admin/options/options.php:289 lib/admin/options/options.php:290
+#: lib/admin/options/options.php:806
+msgid "Dev Mode Info"
+msgstr ""
+
+#: lib/admin/options/options.php:343
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#: lib/admin/options/options.php:653
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: lib/admin/options/options.php:655
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: lib/admin/options/options.php:660
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: lib/admin/options/options.php:662
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: lib/admin/options/options.php:686
+msgid "Import / Export & Reset"
+msgstr ""
+
+#: lib/admin/options/options.php:722
+msgid "Import / Export & Reset Options"
+msgstr ""
+
+#: lib/admin/options/options.php:724
+msgid ""
+"Copy & download your current options settings, import a new set, or do a "
+"full reset."
+msgstr ""
+
+#: lib/admin/options/options.php:729
+msgid "Import Theme Options"
+msgstr ""
+
+#: lib/admin/options/options.php:731
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup. Input the URL to another sites options set and hit Import to "
+"load the options from that site."
+msgstr ""
+
+#: lib/admin/options/options.php:734
+msgid ""
+"WARNING! This will overwrite any existing options, please proceed with "
+"extreme caution."
+msgstr ""
+
+#: lib/admin/options/options.php:747
+msgid "Import"
+msgstr ""
+
+#: lib/admin/options/options.php:755
+msgid "Export Theme Options"
+msgstr ""
+
+#: lib/admin/options/options.php:758
+msgid ""
+"Here you can copy/download your themes current option settings. Keep this "
+"safe as you can use it as a backup should anything go wrong. Or you can use "
+"it to restore your settings on this site (or any other site). You also have "
+"the handy option to copy the link to yours sites settings. Which you can "
+"then use to duplicate on another site"
+msgstr ""
+
+#: lib/admin/options/options.php:778
+msgid "Theme Options Reset"
+msgstr ""
+
+#: lib/admin/options/options.php:781
+msgid ""
+"Conduct a full reset of your current theme options  and return all settings "
+"to their default values.  "
+msgstr ""
+
+#: lib/admin/options/options.php:784
+msgid "WARNING! This will definitely reset all your theme options settings."
+msgstr ""
+
+#: lib/admin/options/options.php:786
+msgid "Reset All Current Options"
+msgstr ""
+
+#: lib/admin/options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid "You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: lib/admin/options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: lib/admin/options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: lib/admin/options/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: lib/admin/options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: lib/admin/options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: lib/admin/options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:49
+msgid "Conditions"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:110
+#: lib/admin/sidebars/classes/class.radiumconditions.php:272
+msgid "Pages"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:116
+msgid "The \"%s\" page"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:176
+msgid "A custom sidebar for \"%s\""
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:189
+msgid "Page Templates"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:195
+msgid "The \"%s\" page template"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:205
+msgid "Post Types"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:212
+msgid "\"%s\" Post Type Archive"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:213
+msgid "The \"%s\" post type archive"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:221
+msgid "Individual %s"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:222
+msgid "Entries in the \"%s\" post type"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:240
+msgid "Taxonomy Archives"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:248
+msgid "The default \"%s\" archives"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:257
+msgid "The %s %s archive"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:259
+msgid "All posts in \"%s\""
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:259
+msgid "All posts in the %s %s archive"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:268
+msgid "Template Hierarchy"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:273
+msgid "Displayed on all pages that don't have a more specific widget area."
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:277
+msgid "Search Results"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:278
+msgid "Displayed on search results screens."
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:282
+msgid "Default \"Your Latest Posts\" Screen"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:283
+msgid "Displayed on the default \"Your Latest Posts\" screen."
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:287
+msgid "Front Page"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:288
+msgid ""
+"Displayed on any front page, regardless of the settings under the "
+"\"Settings -> Reading\" admin screen."
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:292
+msgid "Single Entries"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:293
+msgid "Displayed on single entries of any public post type other than \"Pages\"."
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:297
+msgid "All Archives"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:298
+msgid ""
+"Displayed on all archives (category, tag, taxonomy, post type, dated, "
+"author and search)."
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:302
+msgid "Author Archives"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:303
+msgid ""
+"Displayed on all author archive screens (that don't have a more specific "
+"sidebar)."
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:307
+msgid "Date Archives"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:308
+msgid "Displayed on all date archives."
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:312
+msgid "404 Error Screens"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:313
+msgid "Displayed on all 404 error screens."
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:508
+msgid "Taxonomy Terms"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:515
+msgid "Advanced"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumconditions.php:567
+msgid "Taxonomy Token"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:128
+msgid "Widget Area"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:129
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:142
+#: lib/admin/sidebars/sidebars.php:32
+msgid "Widget Areas"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:139
+msgid "Add New %s"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:140
+msgid "Edit %s"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:141
+msgid "New %s"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:143
+msgid "View %s"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:144
+msgid "Search %a"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:145
+msgid "No %s Found"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:146
+msgid "No %s Found In Trash"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:199
+msgid "(Not in use by current theme)"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:234
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:264
+msgid "Sidebar To Replace"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:234
+msgid "Condition(s)"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:271
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:353
+msgid "Description"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:298
+msgid "No sidebars are available with this theme."
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:354
+msgid ""
+"Add an optional description, to be displayed when adding widgets to this "
+"widget area on the %sWidgets%s screen."
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:367
+msgid "Enter widget area name here"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:384
+msgid "Widget Area updated."
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:605
+msgid "Custom Sidebars"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:656
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:658
+msgid "You have taken too long. Please go back and retry."
+msgstr ""
+
+#: lib/admin/sidebars/sidebars.php:47
+msgid ""
+"In the <a href=\"edit.php?post_type=sidebar\">Widget Area Manager</a>, you "
+"can create and manage widget areas for specific pages of your website to "
+"override the default locations you see below."
+msgstr ""
+
+#: lib/content/content-audio.php:56 lib/content/content-gallery.php:29
+#: lib/content/content-image.php:41 lib/content/content-video.php:33
+#: lib/content/content.php:21 single.php:68
+msgid "Permalink to %s"
+msgstr ""
+
+#: lib/content/content-audio.php:70 lib/content/content-gallery.php:43
+#: lib/content/content-image.php:55 lib/content/content-video.php:47
+#: lib/content/content.php:35
+msgid "<span>Continue Reading</span>"
+msgstr ""
+
+#: lib/content/content-header.php:49
+msgid "&#39;s Articles"
+msgstr ""
+
+#: lib/content/content-header.php:56
+msgid "Tagged: %s"
+msgstr ""
+
+#: lib/content/content-header.php:60
+msgid "%s"
+msgstr ""
+
+#: lib/content/content-header.php:64 lib/content/content-header.php:67
+#: lib/content/content-header.php:70
+msgid "Archives: %s"
+msgstr ""
+
+#: lib/content/content-header.php:73
+msgid "Archives"
+msgstr ""
+
+#: lib/content/content-header.php:89
+msgid "Search for: \"%s\""
+msgstr ""
+
+#: lib/content/content-header.php:93
+msgid "Search results:"
+msgstr ""
+
+#: lib/content/content-header.php:102
+msgid "Nothing Found"
+msgstr ""
+
+#: lib/content/content-header.php:104
+msgid "Unfortunately we couldn&#39;t find anything for \"%s\". Please try again."
+msgstr ""
+
+#: lib/content/content-image.php:17
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: lib/functions/comments.php:25
+msgid "By %1$s on %2$s at %3$s"
+msgstr ""
+
+#: lib/functions/comments.php:29
+msgid "[ edit ]"
+msgstr ""
+
+#: lib/functions/comments.php:32
+msgid ""
+"\\t\\t\\t\\t\\t<span class=\"unapproved\">Your trackback is awaiting "
+"moderation</span>\\n"
+msgstr ""
+
+#: lib/functions/comments.php:81
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: lib/functions/comments.php:87
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: lib/functions/comments.php:88
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: lib/functions/comments.php:93
+msgid "Leave a Comment."
+msgstr ""
+
+#: lib/functions/comments.php:94
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: lib/functions/comments.php:95
+msgid "Cancel"
+msgstr ""
+
+#: lib/functions/comments.php:96
+msgid "Submit Comment"
+msgstr ""
+
+#: lib/functions/theme-functions.php:188 searchform.php:8
+msgid "Search"
+msgstr ""
+
+#: lib/functions/theme-functions.php:226 lib/widgets/widget-sticky.php:84
+msgid "New"
+msgstr ""
+
+#: lib/functions/theme-functions.php:267
+msgid "&nbsp;Comments"
+msgstr ""
+
+#: lib/functions/theme-functions.php:280
+msgid "&nbsp;Views"
+msgstr ""
+
+#: lib/functions/theme-functions.php:285
+msgid "&nbsp;Words"
+msgstr ""
+
+#: lib/functions/theme-functions.php:291
+msgid "Tagged:"
+msgstr ""
+
+#: lib/functions/theme-functions.php:305
+msgid "[Edit]"
+msgstr ""
+
+#: lib/functions/theme-functions.php:353
+msgid "Views"
+msgstr ""
+
+#: lib/functions/theme-functions.php:468 lib/functions/theme-functions.php:489
+msgid "0 Likes"
+msgstr ""
+
+#: lib/functions/theme-functions.php:470 lib/functions/theme-functions.php:491
+msgid "1 Like"
+msgstr ""
+
+#: lib/functions/theme-functions.php:472 lib/functions/theme-functions.php:493
+msgid "&nbsp;Likes"
+msgstr ""
+
+#: lib/functions/theme-functions.php:474
+msgid "I liked this!"
+msgstr ""
+
+#: lib/functions/theme-functions.php:487
+msgid "Do I like this?"
+msgstr ""
+
+#: lib/functions/theme-functions.php:1015
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: lib/functions/theme-functions.php:1020
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: lib/functions/theme-functions.php:1026
+msgid "%1$s"
+msgstr ""
+
+#: lib/functions/theme-functions.php:1026
+msgid "<span class=\"meta-sep\">&middot;</span> Edit"
+msgstr ""
+
+#: lib/functions/theme-options.php:6
+msgid "General Options"
+msgstr ""
+
+#: lib/functions/theme-options.php:7
+msgid "<p class=\"description\">This page contains general theme options.</p>"
+msgstr ""
+
+#: lib/functions/theme-options.php:12
+msgid "Enable Drop In Header"
+msgstr ""
+
+#: lib/functions/theme-options.php:13
+msgid ""
+"Elect to turn on/off the widgetized/menu drop in header. If the menu is not "
+"set (via WP Dashboard) it will act as the \"Drop In Header\" widget area."
+msgstr ""
+
+#: lib/functions/theme-options.php:14 lib/functions/theme-options.php:46
+#: lib/functions/theme-options.php:138 lib/functions/theme-options.php:220
+#: lib/functions/theme-options.php:229 lib/functions/theme-options.php:238
+#: lib/functions/theme-options.php:247
+msgid "Yes do it"
+msgstr ""
+
+#: lib/functions/theme-options.php:21
+msgid "Footer Widgets Layout"
+msgstr ""
+
+#: lib/functions/theme-options.php:22
+msgid "Please select a layout style for your primary footer widget areas."
+msgstr ""
+
+#: lib/functions/theme-options.php:44
+msgid "Display the Footer Icons"
+msgstr ""
+
+#: lib/functions/theme-options.php:45
+msgid "Elect to display the footer icons at the bottom of your footer."
+msgstr ""
+
+#: lib/functions/theme-options.php:53
+msgid "Social Media Footer Icons"
+msgstr ""
+
+#: lib/functions/theme-options.php:54
+msgid ""
+"Select which icons are displayed in your footer. Remember to set up your "
+"social profiles/URLs in the \"Social Media\" options tab."
+msgstr ""
+
+#: lib/functions/theme-options.php:96
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: lib/functions/theme-options.php:97
+msgid ""
+"This text overrides the default copyright message located in the theme "
+"footer."
+msgstr ""
+
+#: lib/functions/theme-options.php:104
+msgid "Header Analytics"
+msgstr ""
+
+#: lib/functions/theme-options.php:105
+msgid "Paste any analytics code that belongs in the head element of your site here."
+msgstr ""
+
+#: lib/functions/theme-options.php:112
+msgid "Footer Analytics"
+msgstr ""
+
+#: lib/functions/theme-options.php:113
+msgid "Paste any analytics code that belongs before the closing body tag here."
+msgstr ""
+
+#: lib/functions/theme-options.php:122
+msgid "Home Template"
+msgstr ""
+
+#: lib/functions/theme-options.php:123
+msgid "<p class=\"description\">Manage & customize your theme home template.</p>"
+msgstr ""
+
+#: lib/functions/theme-options.php:128
+msgid "Branding Tagline"
+msgstr ""
+
+#: lib/functions/theme-options.php:129
+msgid ""
+"Customize the bold title lettering located at the top of home template "
+"header."
+msgstr ""
+
+#: lib/functions/theme-options.php:136
+msgid "Display the Search Field"
+msgstr ""
+
+#: lib/functions/theme-options.php:137
+msgid "Elect to display the large search field in the header of your home template."
+msgstr ""
+
+#: lib/functions/theme-options.php:145
+msgid "Search Field Text"
+msgstr ""
+
+#: lib/functions/theme-options.php:146
+msgid ""
+"Customize the placeholder/value text in the search fields throughout the "
+"theme."
+msgstr ""
+
+#: lib/functions/theme-options.php:153
+msgid "Home Layout"
+msgstr ""
+
+#: lib/functions/theme-options.php:154
+msgid "Please select a layout style for your home template widget areas."
+msgstr ""
+
+#: lib/functions/theme-options.php:183
+msgid "Post Settings"
+msgstr ""
+
+#: lib/functions/theme-options.php:184
+msgid ""
+"<p class=\"description\">Manage multiple general page & blog view "
+"settings.</p>"
+msgstr ""
+
+#: lib/functions/theme-options.php:190
+msgid "Post Meta Options"
+msgstr ""
+
+#: lib/functions/theme-options.php:191
+msgid "Select which post meta you would like to display under the each post title."
+msgstr ""
+
+#: lib/functions/theme-options.php:218
+msgid "Display Reading Time"
+msgstr ""
+
+#: lib/functions/theme-options.php:219
+msgid ""
+"Elect to display the estimated post reading time (based on word count) on "
+"your single posts."
+msgstr ""
+
+#: lib/functions/theme-options.php:227
+msgid "Display the Tags"
+msgstr ""
+
+#: lib/functions/theme-options.php:228
+msgid "Elect to display the post tags at the bottom of your single posts."
+msgstr ""
+
+#: lib/functions/theme-options.php:236
+msgid "Display the Post Likes"
+msgstr ""
+
+#: lib/functions/theme-options.php:237
+msgid "Elect to display the post likes button at the bottom of your single posts."
+msgstr ""
+
+#: lib/functions/theme-options.php:245
+msgid "Display Related Posts"
+msgstr ""
+
+#: lib/functions/theme-options.php:246
+msgid ""
+"Elect to display the related posts, which will appear (based on tags) below "
+"each single post."
+msgstr ""
+
+#: lib/functions/theme-options.php:254
+msgid "Pagination Middle Button Link"
+msgstr ""
+
+#: lib/functions/theme-options.php:255
+msgid ""
+"Select your blogroll or home page that you would like to link the middle "
+"pagination button to."
+msgstr ""
+
+#: lib/functions/theme-options.php:263
+msgid "Site Archives"
+msgstr ""
+
+#: lib/functions/theme-options.php:264
+msgid ""
+"<p class=\"description\">Customize the headers and content displayed on the "
+"Archives Template.</p>"
+msgstr ""
+
+#: lib/functions/theme-options.php:269
+msgid "Archive Page Content"
+msgstr ""
+
+#: lib/functions/theme-options.php:270
+msgid "Select which contexts are displayed on the Archives page."
+msgstr ""
+
+#: lib/functions/theme-options.php:291
+msgid "Index Sidebar"
+msgstr ""
+
+#: lib/functions/theme-options.php:292
+msgid ""
+"Please select the sidebar location for the blog index, archives & search "
+"templates. These default WordPress templates cannot be set via the page "
+"sidebar selectors, only here."
+msgstr ""
+
+#: lib/functions/theme-options.php:311
+msgid "Blogroll Intro Text"
+msgstr ""
+
+#: lib/functions/theme-options.php:312
+msgid "The text that appears below the index blog page title."
+msgstr ""
+
+#: lib/functions/theme-options.php:320
+msgid "All Published Posts"
+msgstr ""
+
+#: lib/functions/theme-options.php:321
+msgid "Replace the text above the all posts archive content."
+msgstr ""
+
+#: lib/functions/theme-options.php:328
+msgid "Last 30 Posts Header"
+msgstr ""
+
+#: lib/functions/theme-options.php:329
+msgid "Replace the text above the latest 30 posts archive content."
+msgstr ""
+
+#: lib/functions/theme-options.php:336
+msgid "Monthly Archive Header"
+msgstr ""
+
+#: lib/functions/theme-options.php:337
+msgid "Replace the text above the monthly posts archive content."
+msgstr ""
+
+#: lib/functions/theme-options.php:344
+msgid "Category Archive Header"
+msgstr ""
+
+#: lib/functions/theme-options.php:345
+msgid "Replace the text above the all category archive content."
+msgstr ""
+
+#: lib/functions/theme-options.php:352
+msgid "Site Map Header"
+msgstr ""
+
+#: lib/functions/theme-options.php:353
+msgid "Replace the text above the site map content."
+msgstr ""
+
+#: lib/functions/theme-options.php:362
+msgid "404 & Coming Soon"
+msgstr ""
+
+#: lib/functions/theme-options.php:363
+msgid ""
+"<p class=\"description\">Manage & customize your theme 404 error page and "
+"Coming Soon Page.</p>"
+msgstr ""
+
+#: lib/functions/theme-options.php:368
+msgid "Upload 404 Background Image"
+msgstr ""
+
+#: lib/functions/theme-options.php:369
+msgid ""
+"Upload a custom background image to be displayed full screen on your 404 "
+"page."
+msgstr ""
+
+#: lib/functions/theme-options.php:375
+msgid "404 Page Header"
+msgstr ""
+
+#: lib/functions/theme-options.php:376
+msgid "Customize the bold header text on the 404 Page."
+msgstr ""
+
+#: lib/functions/theme-options.php:383
+msgid "404 Page Paragraph"
+msgstr ""
+
+#: lib/functions/theme-options.php:384
+msgid ""
+"Customize the paragraph text displayed on the 404 page to say anything you "
+"would liket."
+msgstr ""
+
+#: lib/functions/theme-options.php:391
+msgid "Back Button"
+msgstr ""
+
+#: lib/functions/theme-options.php:392
+msgid "Customize the text that is displayed on the 404 Page \"Back\" button."
+msgstr ""
+
+#: lib/functions/theme-options.php:399
+msgid "Year (ex: 2014)"
+msgstr ""
+
+#: lib/functions/theme-options.php:400 lib/functions/theme-options.php:408
+#: lib/functions/theme-options.php:416
+msgid ""
+"For the Coming Soon template. Create a page using this template to utilize "
+"it."
+msgstr ""
+
+#: lib/functions/theme-options.php:407
+msgid "Month (ex: 01 for JAN)"
+msgstr ""
+
+#: lib/functions/theme-options.php:415
+msgid "Day (ex: 01)"
+msgstr ""
+
+#: lib/functions/theme-options.php:424
+msgid "Social Media"
+msgstr ""
+
+#: lib/functions/theme-options.php:425
+msgid ""
+"<p class=\"description\">Social account which will populate corresponding "
+"parts throughout the theme.</p>"
+msgstr ""
+
+#: lib/functions/theme-options.php:431
+msgid "Behance Profile URL"
+msgstr ""
+
+#: lib/functions/theme-options.php:432
+msgid "Enter your Behance public profile URL."
+msgstr ""
+
+#: lib/functions/theme-options.php:439
+msgid "Dribbble Username"
+msgstr ""
+
+#: lib/functions/theme-options.php:440
+msgid "Enter your Dribbble username."
+msgstr ""
+
+#: lib/functions/theme-options.php:447
+msgid "Email Address"
+msgstr ""
+
+#: lib/functions/theme-options.php:448
+msgid "Enter your preferred contact email address."
+msgstr ""
+
+#: lib/functions/theme-options.php:455
+msgid "FaceBook URL"
+msgstr ""
+
+#: lib/functions/theme-options.php:456
+msgid "Enter your FaceBook URL."
+msgstr ""
+
+#: lib/functions/theme-options.php:463
+msgid "Flickr URL"
+msgstr ""
+
+#: lib/functions/theme-options.php:464
+msgid "Enter your Flickr URL."
+msgstr ""
+
+#: lib/functions/theme-options.php:471
+msgid "Forrst Username"
+msgstr ""
+
+#: lib/functions/theme-options.php:472
+msgid "Enter your Forrst username."
+msgstr ""
+
+#: lib/functions/theme-options.php:479
+msgid "GitHub URL"
+msgstr ""
+
+#: lib/functions/theme-options.php:480
+msgid "Enter your GitHub url."
+msgstr ""
+
+#: lib/functions/theme-options.php:487
+msgid "Google Plus Profile URL"
+msgstr ""
+
+#: lib/functions/theme-options.php:488
+msgid "Enter your Google Plus public profile URL."
+msgstr ""
+
+#: lib/functions/theme-options.php:495
+msgid "Instagram Username"
+msgstr ""
+
+#: lib/functions/theme-options.php:496
+msgid "Enter your Instagram username."
+msgstr ""
+
+#: lib/functions/theme-options.php:503
+msgid "LinkedIn URL"
+msgstr ""
+
+#: lib/functions/theme-options.php:504
+msgid "Enter your LinkedIn profile URL."
+msgstr ""
+
+#: lib/functions/theme-options.php:511
+msgid "Pinterest Username"
+msgstr ""
+
+#: lib/functions/theme-options.php:512
+msgid "Enter your Pinterest username."
+msgstr ""
+
+#: lib/functions/theme-options.php:519
+msgid "RSS Subscribe URL"
+msgstr ""
+
+#: lib/functions/theme-options.php:520
+msgid "Enter your RSS Subscribe URL."
+msgstr ""
+
+#: lib/functions/theme-options.php:527
+msgid "Twitter Username"
+msgstr ""
+
+#: lib/functions/theme-options.php:528
+msgid "Enter your Twitter username."
+msgstr ""
+
+#: lib/functions/theme-options.php:535
+msgid "YouTube URL"
+msgstr ""
+
+#: lib/functions/theme-options.php:536
+msgid "Enter your YouTube URL."
+msgstr ""
+
+#: lib/functions/theme-options.php:543
+msgid "Zerply Username"
+msgstr ""
+
+#: lib/functions/theme-options.php:544
+msgid "Enter your Zerply username."
+msgstr ""
+
+#: lib/functions/theme-options.php:551
+msgid "Theme Customization"
+msgstr ""
+
+#: lib/functions/theme-options.php:552
+msgid ""
+"<p class=\"description\">Easily manipulate various CSS elements throughout "
+"the theme. <b>Note:</b> These colors will override all other theme "
+"stylesheets. Deleting the color values inputted here will allow the "
+"stylesheets display.\n"
+"\t\t\t\t</p>"
+msgstr ""
+
+#: lib/functions/theme-options.php:558
+msgid "Theme Style"
+msgstr ""
+
+#: lib/functions/theme-options.php:559
+msgid ""
+"Please select a style for your site. There are currently 2 styles included "
+"in this theme."
+msgstr ""
+
+#: lib/functions/theme-options.php:581
+msgid "Upload Header Background Image"
+msgstr ""
+
+#: lib/functions/theme-options.php:582
+msgid "Upload an optional custom header background image to be displayed globally."
+msgstr ""
+
+#: lib/functions/theme-options.php:588
+msgid "Accent Color"
+msgstr ""
+
+#: lib/functions/theme-options.php:589
+msgid "Default color of this element: #00BCEB"
+msgstr ""
+
+#: lib/functions/theme-options.php:596
+msgid "Header / Footer Background"
+msgstr ""
+
+#: lib/functions/theme-options.php:597 lib/functions/theme-options.php:613
+msgid "Default color of this element: #2E3236"
+msgstr ""
+
+#: lib/functions/theme-options.php:604
+msgid "Selection Background"
+msgstr ""
+
+#: lib/functions/theme-options.php:605
+msgid "Default color of this element: #F4F4F6"
+msgstr ""
+
+#: lib/functions/theme-options.php:612
+msgid "Selection Text Color"
+msgstr ""
+
+#: lib/functions/theme-options.php:621
+msgid "Custom CSS"
+msgstr ""
+
+#: lib/functions/theme-options.php:622
+msgid ""
+"<p class=\"description\">Overwrite or customize various CSS elements "
+"throughout the theme by implementing your styles in this textarea.\n"
+"\t\t\t\t</p>"
+msgstr ""
+
+#: lib/functions/theme-options.php:629
+msgid "Custom StyleSheet"
+msgstr ""
+
+#: lib/functions/theme-options.php:630
+msgid ""
+"The CSS entered here will override all other CSS elements thoughout the "
+"theme."
+msgstr ""
+
+#: lib/functions/theme-setup.php:94
+msgid "Primary Navigation"
+msgstr ""
+
+#: lib/functions/theme-setup.php:95
+msgid "Drop In Navigation"
+msgstr ""
+
+#: lib/functions/theme-setup.php:96
+msgid "Footer Navigation"
+msgstr ""
+
+#: lib/metaboxes/meta-page.php:7
+msgid "Page Settings"
+msgstr ""
+
+#: lib/metaboxes/meta-page.php:12
+msgid "Intro Heading:"
+msgstr ""
+
+#: lib/metaboxes/meta-page.php:13
+msgid ""
+"Text displayed below the title (in lieu of the category description on post "
+"pages)."
+msgstr ""
+
+#: lib/metaboxes/meta-page.php:20
+msgid "Sidebar Layout:"
+msgstr ""
+
+#: lib/metaboxes/meta-page.php:24
+msgid "Fullwidth"
+msgstr ""
+
+#: lib/metaboxes/meta-page.php:24
+msgid "Fullwidth\""
+msgstr ""
+
+#: lib/metaboxes/meta-page.php:25
+msgid "Left Sidebar"
+msgstr ""
+
+#: lib/metaboxes/meta-page.php:26
+msgid "Right Sidebar"
+msgstr ""
+
+#: lib/metaboxes/meta-post.php:7
+msgid "Link Settings"
+msgstr ""
+
+#: lib/metaboxes/meta-post.php:12
+msgid "Link URL:"
+msgstr ""
+
+#: lib/metaboxes/meta-post.php:13
+msgid "ex: www.themebeans.com"
+msgstr ""
+
+#: lib/metaboxes/meta-post.php:29
+msgid "Audio Settings"
+msgstr ""
+
+#: lib/metaboxes/meta-post.php:34
+msgid "MP3 File URL"
+msgstr ""
+
+#: lib/metaboxes/meta-post.php:40
+msgid "OGA File URL"
+msgstr ""
+
+#: lib/metaboxes/meta-post.php:56
+msgid "Video Settings"
+msgstr ""
+
+#: lib/metaboxes/meta-post.php:61
+msgid "M4V File URL"
+msgstr ""
+
+#: lib/metaboxes/meta-post.php:67
+msgid "OGV File URL"
+msgstr ""
+
+#: lib/metaboxes/meta-post.php:73
+msgid "Poster Image"
+msgstr ""
+
+#: lib/metaboxes/meta-post.php:79
+msgid "Embeded Code"
+msgstr ""
+
+#: lib/metaboxes/meta-post.php:80
+msgid ""
+"If you're not using self hosted video then you can include embeded code "
+"here."
+msgstr ""
+
+#: lib/widgets/widget-announcement.php:32
+msgid "A custom widget to display a announcement."
+msgstr ""
+
+#: lib/widgets/widget-announcement.php:106
+msgid "&nbsp;Make it Flat"
+msgstr ""
+
+#: lib/widgets/widget-categories.php:32
+msgid "A custom widget to displays up to two categories."
+msgstr ""
+
+#: lib/widgets/widget-categories.php:92 lib/widgets/widget-categories.php:138
+msgid "View All"
+msgstr ""
+
+#: lib/widgets/widget-categories.php:196
+msgid ""
+"Enter your category slug & the count you would like displayed for both of "
+"the sections. "
+msgstr ""
+
+#: lib/widgets/widget-categories.php:199
+msgid "Title 1:"
+msgstr ""
+
+#: lib/widgets/widget-categories.php:206 lib/widgets/widget-categories.php:227
+msgid "Category Name:"
+msgstr ""
+
+#: lib/widgets/widget-categories.php:211 lib/widgets/widget-categories.php:232
+#: lib/widgets/widget-sticky.php:151
+msgid "Count:"
+msgstr ""
+
+#: lib/widgets/widget-categories.php:220
+msgid "Title 2:"
+msgstr ""
+
+#: lib/widgets/widget-categories.php:247 lib/widgets/widget-sticky.php:166
+msgid "&nbsp;Display Post Total Counts"
+msgstr ""
+
+#: lib/widgets/widget-categories.php:256 lib/widgets/widget-sticky.php:175
+msgid "&nbsp;Display \"View All\" Button"
+msgstr ""
+
+#: lib/widgets/widget-dribbble.php:32
+msgid "A widget that displays your Dribbble shots"
+msgstr ""
+
+#: lib/widgets/widget-dribbble.php:100
+msgid "Womp. Could not connect to Dribbble."
+msgstr ""
+
+#: lib/widgets/widget-dribbble.php:182 lib/widgets/widget-flickr.php:104
+#: lib/widgets/widget-social.php:260 lib/widgets/widget-sticky.php:146
+msgid "Title:"
+msgstr ""
+
+#: lib/widgets/widget-dribbble.php:187
+msgid "<a href=\"http://www.dribbble.com/themebeans\">Dribbble</a> account:"
+msgstr ""
+
+#: lib/widgets/widget-dribbble.php:192
+msgid "Number of Shots:"
+msgstr ""
+
+#: lib/widgets/widget-feature-area.php:32
+msgid "A widget that displays feature areas."
+msgstr ""
+
+#: lib/widgets/widget-feature-area.php:97
+#: lib/widgets/widget-feature-area.php:135
+#: lib/widgets/widget-feature-area.php:173
+msgid "More Info"
+msgstr ""
+
+#: lib/widgets/widget-feature-area.php:285
+msgid ""
+"Turn on the flip animation and override the theme accent color. If the "
+"animation is on, ensure the  back is entered."
+msgstr ""
+
+#: lib/widgets/widget-feature-area.php:297
+msgid "&nbsp;Animate ON"
+msgstr ""
+
+#: lib/widgets/widget-feature-area.php:301
+msgid "Color:"
+msgstr ""
+
+#: lib/widgets/widget-feature-area.php:311
+msgid "Panel 1:"
+msgstr ""
+
+#: lib/widgets/widget-feature-area.php:354
+#: lib/widgets/widget-feature-area.php:421
+#: lib/widgets/widget-feature-area.php:488
+msgid "Panel Back:"
+msgstr ""
+
+#: lib/widgets/widget-feature-area.php:354
+#: lib/widgets/widget-feature-area.php:421
+#: lib/widgets/widget-feature-area.php:488
+msgid "(animation required)"
+msgstr ""
+
+#: lib/widgets/widget-feature-area.php:362
+#: lib/widgets/widget-feature-area.php:429
+#: lib/widgets/widget-feature-area.php:496
+msgid "Link:"
+msgstr ""
+
+#: lib/widgets/widget-feature-area.php:367
+#: lib/widgets/widget-feature-area.php:434
+#: lib/widgets/widget-feature-area.php:501
+msgid "Text:"
+msgstr ""
+
+#: lib/widgets/widget-feature-area.php:378
+msgid "Panel 2:"
+msgstr ""
+
+#: lib/widgets/widget-feature-area.php:445
+msgid "Panel 3:"
+msgstr ""
+
+#: lib/widgets/widget-flickr.php:32
+msgid "A widget that displays your Flickr photos"
+msgstr ""
+
+#: lib/widgets/widget-flickr.php:109
+msgid "Flickr ID:"
+msgstr ""
+
+#: lib/widgets/widget-flickr.php:114
+msgid "Type (user or group):"
+msgstr ""
+
+#: lib/widgets/widget-flickr.php:122
+msgid "Display (random or latest):"
+msgstr ""
+
+#: lib/widgets/widget-init.php:11
+msgid "Internal Sidebar"
+msgstr ""
+
+#: lib/widgets/widget-init.php:12
+msgid "Drop In Header"
+msgstr ""
+
+#: lib/widgets/widget-init.php:13
+msgid "Home Primary"
+msgstr ""
+
+#: lib/widgets/widget-init.php:14
+msgid "Home Sidebar"
+msgstr ""
+
+#: lib/widgets/widget-init.php:42
+msgid "Home Top Feature"
+msgstr ""
+
+#: lib/widgets/widget-init.php:63
+msgid "Home Bottom Feature"
+msgstr ""
+
+#: lib/widgets/widget-init.php:84
+msgid "Footer 1"
+msgstr ""
+
+#: lib/widgets/widget-init.php:94
+msgid "Footer 2"
+msgstr ""
+
+#: lib/widgets/widget-init.php:104
+msgid "Footer 3"
+msgstr ""
+
+#: lib/widgets/widget-init.php:124
+msgid "Footer 4"
+msgstr ""
+
+#: lib/widgets/widget-init.php:134
+msgid "Footer 5"
+msgstr ""
+
+#: lib/widgets/widget-newsletter.php:32
+msgid "A custom widget that displays a newsletter subscribe field"
+msgstr ""
+
+#: lib/widgets/widget-newsletter.php:64
+msgid "Subscribe"
+msgstr ""
+
+#: lib/widgets/widget-newsletter.php:110
+msgid "Title / Intro:"
+msgstr ""
+
+#: lib/widgets/widget-newsletter.php:121
+msgid "Placeholder Text:"
+msgstr ""
+
+#: lib/widgets/widget-newsletter.php:127
+msgid "Subscribe Code:"
+msgstr ""
+
+#: lib/widgets/widget-newsletter.php:139
+msgid "&nbsp;Shake Animate"
+msgstr ""
+
+#: lib/widgets/widget-social-counter.php:32
+msgid "A widget that displays the header social counter"
+msgstr ""
+
+#: lib/widgets/widget-social-counter.php:64
+msgid " Twitter"
+msgstr ""
+
+#: lib/widgets/widget-social-counter.php:78
+msgid " Facebook"
+msgstr ""
+
+#: lib/widgets/widget-social-counter.php:92
+msgid " Dribbble"
+msgstr ""
+
+#: lib/widgets/widget-social-counter.php:258
+msgid ""
+"Twitter Username (ex: <a "
+"href=\"http://www.twitter.com/themebeans\">ThemeBeans</a>):"
+msgstr ""
+
+#: lib/widgets/widget-social-counter.php:263
+msgid "Facebook Page Name:"
+msgstr ""
+
+#: lib/widgets/widget-social-counter.php:268
+msgid "Dribbble Username:"
+msgstr ""
+
+#: lib/widgets/widget-social-counter.php:279
+msgid "&nbsp;Display Icons"
+msgstr ""
+
+#: lib/widgets/widget-social.php:32
+msgid "A widget that displays your social profiles"
+msgstr ""
+
+#: lib/widgets/widget-social.php:265
+msgid "Behance URL:"
+msgstr ""
+
+#: lib/widgets/widget-social.php:270
+msgid "Delicious URL:"
+msgstr ""
+
+#: lib/widgets/widget-social.php:275
+msgid "Digg URL:"
+msgstr ""
+
+#: lib/widgets/widget-social.php:280
+msgid "Dribbble URL:"
+msgstr ""
+
+#: lib/widgets/widget-social.php:285
+msgid "Facebook URL:"
+msgstr ""
+
+#: lib/widgets/widget-social.php:290
+msgid "Flickr URL:"
+msgstr ""
+
+#: lib/widgets/widget-social.php:295
+msgid "Forrst URL:"
+msgstr ""
+
+#: lib/widgets/widget-social.php:300
+msgid "FourSquare URL:"
+msgstr ""
+
+#: lib/widgets/widget-social.php:305
+msgid "Github URL:"
+msgstr ""
+
+#: lib/widgets/widget-social.php:310
+msgid "Google Plus URL:"
+msgstr ""
+
+#: lib/widgets/widget-social.php:315
+msgid "LinkedIn URL:"
+msgstr ""
+
+#: lib/widgets/widget-social.php:320
+msgid "Pinterest URL:"
+msgstr ""
+
+#: lib/widgets/widget-social.php:325
+msgid "RSS URL:"
+msgstr ""
+
+#: lib/widgets/widget-social.php:330
+msgid "StumbleUpon URL:"
+msgstr ""
+
+#: lib/widgets/widget-social.php:335
+msgid "Twitter URL:"
+msgstr ""
+
+#: lib/widgets/widget-social.php:340
+msgid "Vimeo URL:"
+msgstr ""
+
+#: lib/widgets/widget-social.php:345
+msgid "YouTube URL:"
+msgstr ""
+
+#: lib/widgets/widget-social.php:350
+msgid "Zerply URL:"
+msgstr ""
+
+#: lib/widgets/widget-sticky.php:32
+msgid "A custom widget to display sticky featured posts."
+msgstr ""
+
+#: lib/widgets/widget-sticky.php:91 single.php:70
+msgid "views"
+msgstr ""
+
+#: lib/widgets/widget-sticky.php:141
+msgid "This custom widget features your sticky posts, across any category."
+msgstr ""
+
+#: page-comingsoon.php:35
+msgid "Days"
+msgstr ""
+
+#: page-comingsoon.php:44
+msgid "Hours"
+msgstr ""
+
+#: page-comingsoon.php:53
+msgid "Minutes"
+msgstr ""
+
+#: page-comingsoon.php:62
+msgid "Seconds"
+msgstr ""
+
+#: single.php:24
+msgid "Reading Time: "
+msgstr ""
+
+#: single.php:58
+msgid "<h3>Related Articles.</h3>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Base"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://demo.themebeans.com/base"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A brilliantly crafted knowledgebase inspired theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeBeans"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themebeans.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Archives */ ?>"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Coming Soon */ ?>"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home */ ?>"
+msgstr ""
+
+#: lib/admin/metaboxes/inc/fields/file.php:78
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: lib/admin/metaboxes/inc/fields/file.php:79
+msgctxt "file upload"
+msgid "Upload files"
+msgstr ""
+
+#: lib/admin/metaboxes/inc/fields/file.php:80
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: lib/admin/metaboxes/inc/fields/image.php:78
+#: lib/admin/metaboxes/inc/fields/thickbox-image.php:35
+msgctxt "image upload"
+msgid "Upload Image"
+msgstr ""
+
+#: lib/admin/metaboxes/inc/fields/image.php:79
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: lib/admin/metaboxes/inc/fields/image.php:113
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: lib/admin/metaboxes/inc/fields/image.php:114
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: lib/admin/metaboxes/inc/fields/plupload-image.php:97
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: lib/admin/metaboxes/inc/fields/plupload-image.php:122
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: lib/admin/metaboxes/inc/fields/plupload-image.php:123
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: lib/admin/metaboxes/inc/fields/plupload-image.php:124
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:136
+msgctxt "post type general name"
+msgid "Widget Areas"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:137
+msgctxt "post type singular name"
+msgid "Widget Area"
+msgstr ""
+
+#: lib/admin/sidebars/classes/class.radiumsidebars.php:138
+msgctxt "Sidebar Area"
+msgid "Add New"
+msgstr ""
+
+#: lib/content/content-header.php:67
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: lib/content/content-header.php:70
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: lib/functions/theme-functions.php:267
+msgctxt "comments number"
+msgid "1"
+msgstr ""
+
+#: lib/functions/theme-functions.php:267
+msgctxt "comments number"
+msgid "%"
+msgstr ""
